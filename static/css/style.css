@@ -1,0 +1,12 @@
+body {
+  background: url('../images/bg.png');
+  display: flex;
+  justify-content: center;
+  align-content: centerinline-;
+  align-items: center;
+}
+
+#si-909 {
+  display: inline-block;
+  margin: 0 auto;
+}
